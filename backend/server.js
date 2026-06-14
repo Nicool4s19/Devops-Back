@@ -6,6 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 //test
+//esto se agrega para testear EL CI/CD
 const {
   DB_HOST = "10.0.2.48", // acá colocar la IP Privada EC2 DB      UwU
   DB_USER = "alumno",

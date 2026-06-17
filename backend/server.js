@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3001;
 
 //test
 //esto se agrega para testear EL CI/CD
-// Configuración de TEST PARA CI/CD V2
+// Configuración de TEST PARA CI/CD V3
 const {
   DB_HOST = "10.0.2.75", // acá colocar la IP Privada EC2 DB      UwU
   DB_USER = "alumno",
